@@ -1,0 +1,1 @@
+main = interact $  show . sum . filter odd . map read . words
